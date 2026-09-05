@@ -57,13 +57,11 @@ cd "Crypto Volatility & Risk Analyzer 2026"
 pip install -r requirements.txt
 
 ## Usage
-```text
 Run the analyzer using:
-```
-python analyzer.py
 ```text
-The program fetches historical Bitcoin data and calculates different performance and risk measurements.
+python analyzer.py
 ```
+The program fetches historical Bitcoin data and calculates different performance and risk measurements.
 
 ## Measurements
 
